@@ -51,3 +51,15 @@
 Добавлена команда blake2b
 Добавлена команда getdns
 Добавлена команда getssl
+
+2.3 [16/2/2026]
+Команда rangeportsip изменена на rangeports
+Убрана команда rangeportsdomain
+Команда scanportsdomain изменена на scanports
+Убрана команда scanportsip
+Исправлена команда scanports
+Команда getdomainip изменена на getsiteip
+Оптимизация
+Обновлена команда getdns
+Обновлена команда getssl
+Обновлён help
